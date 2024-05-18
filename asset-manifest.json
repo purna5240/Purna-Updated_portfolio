@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad198139.css",
+    "main.js": "/static/js/main.7af5de57.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/myimg.png": "/static/media/myimg.af396c53d8caccad1644.png",
+    "static/media/admin.png": "/static/media/admin.547d8cc632cae27e2252.png",
+    "static/media/welcome.png": "/static/media/welcome.815f1761168db8f1bb86.png",
+    "static/media/login.png": "/static/media/login.60320e574c0bc659831a.png",
+    "static/media/ptfimg.jpg": "/static/media/ptfimg.7dac8699a9160ad5287a.jpg",
+    "static/media/elearning.jpg": "/static/media/elearning.2f3f1e95cc0fda7fa94a.jpg",
+    "static/media/about.png": "/static/media/about.c0c57f41c6c672e349bc.png",
+    "static/media/isf.jpg": "/static/media/isf.97be49beddcca034711e.jpg",
+    "static/media/e5.jpeg": "/static/media/e5.dc1ba1f304f2764eaf90.jpeg",
+    "static/media/e3.jpeg": "/static/media/e3.a8437b725753217c1779.jpeg",
+    "static/media/e2.jpeg": "/static/media/e2.4031307a75ed3852f45e.jpeg",
+    "static/media/e6.jpeg": "/static/media/e6.214cf6cc0a09eb5b3031.jpeg",
+    "static/media/e7.jpeg": "/static/media/e7.3c7aa85b4fbce014ba06.jpeg",
+    "static/media/e1.jpeg": "/static/media/e1.9cdd18cb16f1120d049f.jpeg",
+    "static/media/e4.jpeg": "/static/media/e4.4fa64560db2153ceb241.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.840e9e3aba8f46c70934.pdf",
+    "index.html": "/index.html",
+    "main.ad198139.css.map": "/static/css/main.ad198139.css.map",
+    "main.7af5de57.js.map": "/static/js/main.7af5de57.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad198139.css",
+    "static/js/main.7af5de57.js"
+  ]
+}
